@@ -1,0 +1,36 @@
+.qwerty {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 36px;
+	font-style: italic;
+	line-height: normal;
+	font-weight: bold;
+	font-variant: normal;
+	letter-spacing: normal;
+	text-align: center;
+	vertical-align: baseline;
+	word-spacing: normal;
+	white-space: normal;
+	display: block;
+	float: none;
+	height: 300px;
+	width: 300px;
+	border-top-width: medium;
+	border-right-width: medium;
+	border-bottom-width: medium;
+	border-left-width: medium;
+	border-top-style: solid;
+	border-right-style: dotted;
+	border-bottom-style: double;
+	border-left-style: groove;
+	border-top-color: #000000;
+	border-right-color: #FF0000;
+	border-bottom-color: #FFFF00;
+	border-left-color: #0000FF;
+	background-color: #FFFFFF;
+	background-attachment: scroll;
+	background-repeat: repeat;
+	background-position: center top;
+	color: #000000;
+	clear: none;
+	background-image: url(../Other%20Files/%D0%BA%D0%BE%D1%82.jpg);
+}
